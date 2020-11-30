@@ -395,9 +395,6 @@ img {
   margin-right: 8px;
 }
 
-/* .filter-list .filter-btn {
-  /* display: block; */
-
 .filter-btn:hover,
 .filter-btn:focus {
   color: var(--bg-color);
